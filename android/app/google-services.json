@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50149487978",
+    "project_id": "issuesubmission-a8cc7",
+    "storage_bucket": "issuesubmission-a8cc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50149487978:android:e9ef02d3c974529c2be113",
+        "android_client_info": {
+          "package_name": "com.example.issue_submission_interface"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCLnGfqD1q7k7ULrYPlfnRNjOQOAmOFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
