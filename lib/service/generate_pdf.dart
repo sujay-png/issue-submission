@@ -24,7 +24,7 @@ class GeneratePdf {
       final fontData = await rootBundle.load("assets/fonts/Roboto-Regular.ttf");
       final pw.Font unicodeFont = pw.Font.ttf(fontData);
       final ByteData logoBytesData = await rootBundle.load(
-        'assets/images/ECS logo 1.png',
+        'assets/images/ecs_logo_1.png',
       );
       final Uint8List logoBytes = logoBytesData.buffer.asUint8List();
       final pw.MemoryImage pdfImage = pw.MemoryImage(logoBytes);
