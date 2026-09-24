@@ -67,7 +67,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/ECS logo 1.png
+    - assets/images/ecs_logo_1.png
     - assets/images/qrcode.jpeg
 
   fonts:
